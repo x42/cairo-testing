@@ -1,0 +1,8 @@
+*.swp
+.DS_Store
+/cairo_gtk
+/cairo_cg
+/cairo_img
+/CairoCG.app/Contents/MacOS/CairoCG
+/CairoGtk.app/Contents/MacOS/CairoGtk
+/*.dSYM
