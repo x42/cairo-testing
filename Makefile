@@ -1,5 +1,5 @@
 COMMONFLAGS= -g -Wall
-OBJCFLAGS=`pkg-config --cflags cairo glib-2.0` -std=c99 --stdlib=libstdc++
+OBJCFLAGS=`pkg-config --cflags cairo glib-2.0` -std=c99
 CFLAGS=`pkg-config --cflags cairo glib-2.0` -g -Wall
 CXXFLAGS=`pkg-config --cflags gtkmm-2.4 cairo glib-2.0` -g -Wall
 
